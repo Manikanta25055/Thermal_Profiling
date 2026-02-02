@@ -1,11 +1,11 @@
-# 8-CHANNEL THERMAL PROFILING SYSTEM
+# 4-CHANNEL THERMAL PROFILING SYSTEM
 
 **Complete Project Documentation**
 
 Student: Gonugondla Veera Manikanta (230906450)
-Course: ELE 3221 - Measurements & Instrumentation Laboratory
+Course: ELE 3162 - Measurements & Instrumentation Laboratory
 Institution: Manipal Institute of Technology
-Date: January 2026
+Date: February 2025
 
 ---
 
